@@ -62,5 +62,6 @@ export function useAuth() {
     loginGitlab,
     loginEmail,
     logout,
+    client,
   };
 }
